@@ -11,5 +11,6 @@ a=a+b;
 b=a-b;
 a=a-b;
 printf("After swapping:%d,%d\n",a,b);
+printf("Saved");
 }
 
