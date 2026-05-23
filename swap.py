@@ -1,5 +1,5 @@
-a=10
-b=20
+a=62
+b=-38
 print("Before swapping:")
 print("a=",a)
 print("b=",b)
